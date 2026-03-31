@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install --prefix \"10 Page Landing Site\"",
+  "buildCommand": "npm run build",
+  "outputDirectory": "10 Page Landing Site/dist"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tmp2-vercel-wrapper",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix \"10 Page Landing Site\"",
+    "dev": "npm run dev --prefix \"10 Page Landing Site\""
+  }
+}
